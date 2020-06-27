@@ -1,0 +1,5 @@
+dump/
+.idea/
+venv/
+.vscode/
+things.json
